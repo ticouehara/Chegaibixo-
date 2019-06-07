@@ -1,0 +1,42 @@
+#menu li{
+	display: inline;
+}
+
+#fullpage section h1
+
+body{
+	margin: 0;
+	padding: 0;
+}
+.section{
+		background-size: cover;
+	}
+.slide{
+		background-size: cover;
+	}
+
+#section1{
+	background-image: url(../img/teste1.jpg);
+
+}
+#section2{
+	background-image: url(../img/teste1.jpg);
+
+}
+#section3{
+	background-image: url(../img/teste1.jpg);
+
+}
+#section4{
+	background-image: url(../img/teste1.jpg);
+
+}
+h1{
+		font-size: 5em;
+		font-family: arial,helvetica;
+		color: #fff;
+		margin:0;
+		padding:0;
+	}
+
+.navbar-fixed {position: absolute;z-index:999999999;}
